@@ -10,9 +10,9 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {KANGO~SQ8W1JZQ#srRg6eCRcg1EWab_m9YCiC7kQNYSHmu3KlN7vemASRw
+    "SESSION_ID": {
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
-      "value": "true",
+      "value": "KANGO~SQ8W1JZQ#srRg6eCRcg1EWab_m9YCiC7kQNYSHmu3KlN7vemASRw",
       "required": false
     },
     "BOT_NAME": {
