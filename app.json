@@ -10,9 +10,9 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {KANGO~SQ8W1JZQ#srRg6eCRcg1EWab_m9YCiC7kQNYSHmu3KlN7vemASRw
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
-      "value": "",
+      "value": "true",
       "required": false
     },
     "BOT_NAME": {
@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "233202429182",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "NANA KWADWO",
       "required": true
     },
     "STICKER_PACK_NAME": {
